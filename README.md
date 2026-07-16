@@ -151,7 +151,7 @@ Analyzes the highest revenue-generating product categories across the business.
 
 This visualization helps identify which product categories contribute the most to overall sales and can be used to support inventory planning, marketing campaigns and category-level investment decisions.
 
-![Top Categories](charts/01_category_revenue.png)
+![Top Categories](charts/01_top_categories.png)
 
 ---
 
