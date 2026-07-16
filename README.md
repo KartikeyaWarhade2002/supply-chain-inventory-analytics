@@ -136,7 +136,6 @@ The project follows an end-to-end analytics workflow commonly used in supply cha
 
 ---
 
-
 # 📈 Python Visualizations (Plotly)
 
 Python was used to automate business reporting by generating interactive visualizations directly from SQL query results using **Plotly**.
@@ -277,7 +276,6 @@ This approach demonstrates the ability to perform consistent analysis across:
 
 while ensuring that all reported KPIs remain accurate, reproducible and suitable for executive business reporting.
 
-
 # 📊 Interactive Power BI Dashboard
 
 The final stage of the project was the development of a multi-page interactive Power BI dashboard.
@@ -408,7 +406,6 @@ The analysis produced the following business insights.
 ---
 
 ### 📌 8. Shipping performance analysis revealed opportunities to reduce delivery delays, optimize shipping methods and improve operational efficiency while maintaining profitability.
-
 
 # 🎯 Business Value
 
