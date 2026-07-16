@@ -551,11 +551,9 @@ Aspiring Data Analyst passionate about transforming raw business data into actio
 ### Connect with Me
 
 **GitHub**
-
 https://github.com/KartikeyaWarhade2002
 
 **LinkedIn**
-
 https://www.linkedin.com/in/kartikeya-warhade/
 
 ---
