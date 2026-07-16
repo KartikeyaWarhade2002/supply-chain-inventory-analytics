@@ -16,6 +16,11 @@
 
 ---
 
+# 🚀 Live Demo
+🌐*Interactive Streamlit Dashboard:* 
+https://supply-chain-inventory-analytics.streamlit.app/
+
+---
 # 📌 Project Overview
 
 This project demonstrates a complete end-to-end Supply Chain Analytics workflow using the **DataCo Global Supply Chain Dataset**.
